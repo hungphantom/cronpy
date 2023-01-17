@@ -1,0 +1,3 @@
+domain/controller/momo/api.php?act=getToken&type=192168
+domain/controller/momo/api.php?act=getHistories&type=192168
+domain/controller/momo/api.php?act=getHistoriesFull&type=192168
